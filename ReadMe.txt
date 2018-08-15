@@ -1,5 +1,8 @@
 //PUBG_Anti_Recoil//
 
+This is for learning purposes only.
+
+
 The Game needs to be in full screen(windowed)
 
 This program will always be on top of all windows. It is meant to overlay the game. You can drag it anywhere you feel comfortable.
